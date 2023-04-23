@@ -1,0 +1,4 @@
+BADJO, 200 DH, "13-03-2023", AAAA 
+Koffi, 100 dh, "345", bbbb
+bbb, 131, 2i92, hjkl
+BADJO, 56789,fghjk,vghbj
