@@ -16,12 +16,6 @@ Python est devenu une langage de programmation très utilisé aujourd'hui compte
     </ul>
 </p>
 <p> 
- Mais quel notion de python allons nous étudier? et va voir:
- <ul>
-     <li> Notion de variable et données, appliquer les operations</li>
-     <li>Les Structures répétitives et décisionnelles: if, else, elif, for, while etc</li>
-     <li> Les Exceptions et gestion de fichiers </li>
-     <li>Programmation orienté objet : Les classe, les objet, héritage, polymorphisme, encapsculation etc</li>   
- </ul>
+ Vous trouverez notion de variable et données, appliquer les operations, Les Structures répétitives et décisionnelles: if, else, elif, for, while etc. Mais aussi la gestion exceptions et gestion de fichiers, programmation orienté objet : Les classe, les objet, héritage, polymorphisme, encapsculation etc
 </p>
 
