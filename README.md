@@ -1,5 +1,5 @@
 # Fondement en programmation python
-Python est devenu une langage de programmation très utilisé aujourd'hui compte tenu de sa facilité d'utilisation et de ses nombreux applications. Ce projet est destinié au désireux d'apprendre les fondements de la programmation en python. Ce projet parcours l'essentielle de la programmation en python y compris la programmation orienté objet. Ce répertoir est constitué de sous répertoire, il y aura pas que la théorie, la pratique, les mini projets sont aussi inclus avec les données utilisés.
+Python est devenu une langage de programmation très utilisé aujourd'hui compte tenu de sa facilité d'utilisation et de ses nombreux applications. Ce projet est destinié au désireux d'apprendre les fondements de la programmation en python, l'essentielle de la programmation en python y compris la programmation orienté objet. Pas seulement la théories mais aussi la pratique, les mini projets sont aussi inclus avec les données utilisés.
 <h3 style = "text-decoration-line:underline;"> Vous allez apprendre:</h3>
 <p>
     <ul>
