@@ -18,4 +18,6 @@ Python est devenu une langage de programmation très utilisé aujourd'hui compte
 <p> 
  Vous trouverez notion de variable et données, appliquer les operations, Les Structures répétitives et décisionnelles: if, else, elif, for, while etc. Mais aussi la gestion exceptions et gestion de fichiers, programmation orienté objet : Les classe, les objet, héritage, polymorphisme, encapsculation etc
 </p>
+## Comment est organiser les réportoires
 
+Il y a plusieurs répertoires: Un répertoire Cours oú il y a les fihciers ipynb qui facilité l'apprentissage, un répertoire Application dans lequel il y a les application réalisé au cours de l'apprentissage, Travauz pratiques ce répertoire comme son non l'indique comporte les travaux pratiques réalisés et enfin mini projet dans lequel vous trouver les fichiers python de la correction des mini projet. Bien avant ca il y a les un répertoire data comportant les données utilisés dans ce tutoriel.
